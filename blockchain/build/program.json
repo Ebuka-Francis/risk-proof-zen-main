@@ -1,8 +1,8 @@
 {
   "program": "risk_proof_v1.aleo",
   "version": "0.1.0",
-  "description": "AleoRisk: Privacy-first risk analytics for DeFi and TradFi.",
-  "license": "MIT",
+  "description": "",
+  "license": "",
   "leo": "3.4.0",
   "dependencies": null,
   "dev_dependencies": null

@@ -69,7 +69,7 @@ export interface AleoTransition {
 }
 
 // Leo Program Constants
-export const ALEO_RISK_PROGRAM = "aleo_risk_v1.aleo";
+export const ALEO_RISK_PROGRAM = "risk_proof_v1.aleo";
 export const TESTNET_CHAIN_ID = "testnetbeta";
 export const EXPLORER_BASE_URL = "https://explorer.aleo.org/transaction";
 
